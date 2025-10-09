@@ -1,4 +1,4 @@
-# Lecture 5 - 7 October 2025
+# Lecture 6 - 9 October 2025
 
 In this lecture we explored `StatefulWidget` and `StatelessWidget` along with the understanding of the main structure of a Flutter app.
 
